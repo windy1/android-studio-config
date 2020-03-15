@@ -1,0 +1,14 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.2560.1440" x="1127" y="300" />
+    <location key="FileChooserDialogImpl.0.0.2560.1440" x="1063" y="338" />
+    <location key="WELCOME_SCREEN.2560.27.2560.1440" x="1280" y="580" />
+    <location key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog.0.0.2560.1440" x="963" y="448" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.2560.1440" x="936" y="547" />
+    <location key="search.everywhere.popup.0.0.2560.1440" x="943" y="329" />
+    <location key="SettingsEditor.0.0.2560.1440" x="753" y="355" />
+    <size key="FileChooserDialogImpl.0.0.2560.1440" width="424" height="482" />
+    <size key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog.0.0.2560.1440" width="624" height="542" />
+    <size key="search.everywhere.popup.0.0.2560.1440" width="672" height="678" />
+  </component>
+</application>

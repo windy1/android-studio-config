@@ -1,0 +1,9 @@
+plugins
+tasks
+workspace
+disabled_update.txt
+port
+*.lock
+*.vmoptions
+*.token
+.DS_Store

@@ -1,0 +1,42 @@
+<keymap version="1" name="custom" parent="Default for GNOME">
+  <action id="CheckinProject" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="Diff.FocusOppositePane" />
+  <action id="EditorSelectWord" />
+  <action id="ExpressionTypeInfo" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="shift right" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl right" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl left" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
+  <action id="QuickChangeScheme" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="up" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="right" />
+  </action>
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
+</keymap>
